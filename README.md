@@ -17,16 +17,6 @@ Each task is executed over hundreds or thousands of trials to gather meaningful 
 
 ---
 
-## Setup Instructions
-
-> ✅ Requires Python 3.7+, Qiskit, and Matplotlib.
-
-### Install Dependencies
-
-```bash
-pip install qiskit matplotlib
-
-```
 
 # Quantum Circuit Experiments
 
