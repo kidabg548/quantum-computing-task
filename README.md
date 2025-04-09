@@ -26,6 +26,8 @@ Each task is executed over hundreds or thousands of trials to gather meaningful 
 ```bash
 pip install qiskit matplotlib
 
+```
+
 # Quantum Circuit Experiments
 
 This document outlines a series of quantum circuit experiments designed to explore fundamental quantum concepts like superposition, entanglement, and quantum measurement. The experiments are designed to be run using a quantum computing simulator like Qiskit.
